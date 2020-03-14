@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="439" height="144" viewBox="0 0 439 144">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0072b0"/>
+      <stop offset="0.01" stop-color="#fff"/>
+      <stop offset="0.372" stop-color="#b3def5"/>
+      <stop offset="0.556" stop-color="#368cba"/>
+      <stop offset="1" stop-color="#3f95c4"/>
+    </linearGradient>
+    <clipPath id="clip-logo_1">
+      <rect width="439" height="144"/>
+    </clipPath>
+  </defs>
+  <g id="logo_1" data-name="logo – 1" clip-path="url(#clip-logo_1)">
+    <rect width="439" height="144"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(-3 2)">
+      <path id="Path_6" data-name="Path 6" d="M.491.534,90.877.654l.112,85.395L.6,85.929Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 47.068, 14.824)" fill="#0073b0"/>
+      <path id="Path_5" data-name="Path 5" d="M.857.917l89.724.112.105,84.452L.962,85.369Z" transform="translate(68.407 6.626) rotate(36)" fill="rgba(0,115,176,0.82)"/>
+      <path id="Path_4" data-name="Path 4" d="M.836.877l89.915.04.037,84.52L.873,85.4Z" transform="translate(94.514 7.226) rotate(60)" fill="rgba(0,115,176,0.67)"/>
+      <path id="Path_3" data-name="Path 3" d="M.556.577l90.591,0,0,85.192-90.591,0Z" transform="matrix(0.259, 0.966, -0.966, 0.259, 109.881, 13.015)" fill="rgba(0,115,176,0.51)"/>
+      <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(123.388 22.458) rotate(90)" fill="rgba(0,115,176,0.28)" stroke="#0073b0" stroke-width="0.2">
+        <rect width="92.042" height="86.685" stroke="none"/>
+        <rect x="0.1" y="0.1" width="91.842" height="86.485" fill="none"/>
+      </g>
+      <text id="_L_" data-name="{L}" transform="translate(114 88)" fill="#fff" font-size="74" font-family="SegoeUI-Semilight, Segoe UI" font-weight="300"><tspan x="-72.052" y="0">{</tspan><tspan y="0" font-size="59" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600">L</tspan><tspan y="0">}</tspan></text>
+    </g>
+    <text id="LAPBITS" transform="translate(148 85)" fill="#fff" font-size="66" font-family="Offside-Regular, Offside"><tspan x="0" y="0">LAPBITS</tspan></text>
+    <text id="bits_to_byte_server_with_smile_" data-name="bits to byte server with smile " transform="translate(150 117)" fill="#fff" font-size="14" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="0">Bits To Byte Server With Smile </tspan></text>
+    <path id="Path_2" data-name="Path 2" d="M3,0,6,267H1.4Z" transform="translate(417 91) rotate(90)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
