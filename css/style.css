@@ -11593,3 +11593,8 @@ textarea.form-control {
     stroke-dashoffset: -136px;
   }
 }
+@media only screen and (max-width: 600px) {
+  .hero-wrap .forth .text h1 {
+    font-size: 50px !important;
+  }
+}
